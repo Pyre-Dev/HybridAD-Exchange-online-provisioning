@@ -11,7 +11,7 @@
 # Import the necessary modules
 Import-Module ActiveDirectory
 Import-Module ExchangeOnlineManagement
-Import-Module Microsoft.Graph
+Import-Module Microsoft.Graph.users
 # Ensure you have the Microsoft.Graph module installed
 #run  "Install-Module Microsoft.Graph -Scope CurrentUser" in your console.
 
